@@ -6,6 +6,7 @@ CLASS zcl_test_class_a DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
+    "Class Modified locally
 ENDCLASS.
 
 
