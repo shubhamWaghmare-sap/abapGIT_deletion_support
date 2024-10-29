@@ -1,0 +1,15 @@
+CLASS zif_test_interface_b DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+  "Interface created in Github
+ENDCLASS.
+
+
+
+CLASS zif_test_interface_b IMPLEMENTATION.
+ENDCLASS.
