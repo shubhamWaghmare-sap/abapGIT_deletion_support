@@ -6,7 +6,6 @@ CLASS zcl_test_class_c DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
-    "Class Created in Github
 ENDCLASS.
 
 
