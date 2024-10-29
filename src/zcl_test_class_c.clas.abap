@@ -1,0 +1,15 @@
+CLASS zcl_test_class_c DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+    "Class Created in Github
+ENDCLASS.
+
+
+
+CLASS zcl_test_class_c IMPLEMENTATION.
+ENDCLASS.
